@@ -12,7 +12,7 @@ Eu sou um estudante de Comunicação e Multimédia, na Universidade de Trás-os-
          
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Linguagem e Ferramentas
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -34,7 +34,7 @@ Eu sou um estudante de Comunicação e Multimédia, na Universidade de Trás-os-
 
 #
 
-### 📊 Stats
+### 📊 Estáticas
 
 ![Luís Veiga's Estáticas Github](https://github-readme-stats.vercel.app/api?username=LuisVeiga11&show_icons=true&theme=shadow_blue)
 
@@ -45,18 +45,3 @@ Eu sou um estudante de Comunicação e Multimédia, na Universidade de Trás-os-
 <details>
  <summary><h3>👨‍💻 Luís Veiga's Jornada em Programação</h3></summary>
    Olá!
-
-<!--
-**LuisVeiga11/LuisVeiga11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
