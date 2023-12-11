@@ -36,12 +36,12 @@ Eu sou um estudante de Comunicação e Multimédia, na Universidade de Trás-os-
 
 ### 📊 Estáticas
 
-![Luís Veiga's Estáticas Github](https://github-readme-stats.vercel.app/api?username=LuisVeiga11&show_icons=true&theme=shadow_blue)
+![Luís Veiga Estáticas Github](https://github-readme-stats.vercel.app/api?username=LuisVeiga11&show_icons=true&theme=shadow_blue)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LuisVeiga11&theme=shadow_blue&border_radius=4.5)
 
 #
 
 <details>
- <summary><h3>👨‍💻 Luís Veiga's Jornada em Programação</h3></summary>
+ <summary><h3>👨‍💻 Luís Veiga Jornada em Programação</h3></summary>
    Olá!
