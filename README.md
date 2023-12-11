@@ -36,7 +36,7 @@ Eu sou um estudante de Comunicação e Multimédia, na Universidade de Trás-os-
 
 ### 📊 Estáticas
 
-[Luís Veiga Estáticas GitHub](https://github-readme-stats.vercel.app/api?username=LuisVeiga11&show_icons=true&theme=transparent&hide=contribs,prs)
+![Luís Veiga Estáticas GitHub](https://github-readme-stats.vercel.app/api?username=LuisVeiga11&show_icons=true&theme=transparent&hide=contribs,prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVeiga11&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5)
 
