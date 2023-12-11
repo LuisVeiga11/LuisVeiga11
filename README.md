@@ -12,7 +12,7 @@ Eu sou um estudante de Comunicação e Multimédia, na Universidade de Trás-os-
          
 ---
 
-### 🧰 Linguagem e Ferramentas
+### 🧰 Linguagens e Ferramentas
 
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -36,9 +36,8 @@ Eu sou um estudante de Comunicação e Multimédia, na Universidade de Trás-os-
 
 ### 📊 Estáticas
 
-![Luís Veiga Estáticas Github](https://github-readme-stats.vercel.app/api?username=LuisVeiga11&show_icons=true&theme=shadow_blue)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LuisVeiga11&theme=shadow_blue&border_radius=4.5)
+![Luís Veiga Estáticas GitHub](https://github-readme-stats.vercel.app/api?username=LuisVeiga11&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVeiga11&layout=compact&size_weight=0.5&count_weight=0.5)
 
 #
 
